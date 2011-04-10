@@ -15,6 +15,9 @@ from Twitter, Facebook, etc..
 # LICENSE
 
 	Copyright (c) 2011 Michael Mueller, http://micha.elmueller.net/
+	
+	Blueprint code taken from
+	xscreensaver, Copyright(c) 2001-2008 Jamie Zawinski <jwz@jwz.org>
 
 	Permission is hereby granted, free of charge, to any person obtaining
 	a copy of this software and associated documentation files (the
