@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Earth</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.jwz.xscreensaver.Earth</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Earth</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.12</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>5.12</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.4</string>
+	<key>NSMainNibFile</key>
+	<string>SaverTester</string>
+	<key>NSPrincipalClass</key>
+	<string>XScreenSaverEarthView</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Earth 5.12, © 2011 Michael Mueller and Jamie Zawinski.</string>
+	<key>CFBundleLongVersionString</key>
+	<string>Earth 5.12, © 2011 Michael Mueller and Jamie Zawinski.</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Earth 5.12, © 2011 Michael Mueller and Jamie Zawinski.
+From the XScreenSaver collection:
+http://www.jwz.org/xscreensaver/
+
+Displays a rotating earth.</string>
+</dict>
+</plist>

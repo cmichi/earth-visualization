@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<screensaver name="earth" _label="Earth">
+
+  <command arg="-root"/>
+
+ <!-- #### -color [random] -->
+
+  <_description>Earth, version 5.12.
+
+Displays a rotating earth.
+
+From the XScreenSaver collection: http://www.jwz.org/xscreensaver/
+Copyright © 2011 by Michael Mueller and Jamie Zawinski.
+</_description>
+</screensaver>
