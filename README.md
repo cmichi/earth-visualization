@@ -9,7 +9,7 @@ from Twitter, Facebook, etc..
 
 # EYE CANDY
 
-![Screenshot](http://micha.elmueller.net/media/latex-collection2.png)
+![Screenshot](http://cmichi.net/media/latex-collection2.png)
 
 
 # LICENSE
