@@ -9,7 +9,7 @@ from Twitter, Facebook, etc..
 
 # EYE CANDY
 
-![Alt Screenshot](http://cmichi.net/wp-content/uploads/2011/04/earth-screen.png)
+![Screenshot](https://github.com/cmichi/earth-visualization/raw/master/images/earth-screen.png)
 
 
 # LICENSE
